@@ -79,9 +79,16 @@ Implemented techniques:
 
 Original photographs captured for the assignment are used for image processing and detection experiments. Input photographs are supplied separately when required.
 
-## Note
+## Project Explanation Video
 
-Task 4 (Video Motion Estimation) is not included in this repository.
+A project explanation video has been recorded to demonstrate the Computer Vision assignment implemented using Python and Jupyter Notebook.
+
+The video covers:
+- Task 1: Image Restoration and Segmentation
+- Task 2: Feature Extraction and Image Matching
+- Task 3: Object Recognition using Viola–Jones and YOLO
+
+**[Watch Project Explanation Video on Loom](https://www.loom.com/share/8d5dab652ccc439ea4a1f745e879ebcb)**
 
 ## Conclusion
 
